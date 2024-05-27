@@ -1,1 +1,3 @@
-# PRODIGY_DS_02
+I have completed Task-2 given to me during my internship as a Data Analyst with Prodigy InfoTech. 
+TASK_02: Perform data cleaning and exploratory data analysis (EDA) on a dataset of your choice, such as the Titanic dataset from Kaggle. Explore the relationships between variables and identify patterns and trends in the data.
+Conducted comprehensive Data Cleaning and Exploratory Data Analysis (EDA) on a selected dataset, delving into the intricate patterns and relationships between variables.Explored the vast realm of data with a dataset of choice (e.g., Titanic dataset from Kaggle), unveiling valuable insights and trends.
